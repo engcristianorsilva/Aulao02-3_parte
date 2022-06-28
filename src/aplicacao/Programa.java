@@ -18,7 +18,7 @@ public class Programa {
 		
 		Locale.setDefault(Locale.US); // tipo formatação numérica
 		
-		String path = "C:\\emporio_testes2.csv";
+		String path = "emporio_testes2.csv";
 
 		List<Produto> list = new ArrayList<Produto>();
 
